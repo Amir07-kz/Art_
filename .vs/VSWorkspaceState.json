@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\KonohagoWebApp",
+    "\\KonohagoWebApp\\bin",
+    "\\KonohagoWebApp\\Pages",
+    "\\KonohagoWebApp\\Properties",
+    "\\KonohagoWebApp\\Repository",
+    "\\KonohagoWebApp\\Repository\\Implementations",
+    "\\KonohagoWebApp\\Repository\\Interfaces",
+    "\\KonohagoWebApp\\wwwroot",
+    "\\KonohagoWebApp\\wwwroot\\css"
+  ],
+  "SelectedNode": "\\KonohagoWebApp\\obj\\KonohagoWebApp.csproj.nuget.g.props",
+  "PreviewInSolutionExplorer": false
+}

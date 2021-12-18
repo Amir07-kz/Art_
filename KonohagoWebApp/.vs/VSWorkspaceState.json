@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\netcoreapp3.1",
+    "\\obj\\Debug\\netcoreapp3.1\\Razor",
+    "\\obj\\Debug\\netcoreapp3.1\\Razor\\Pages",
+    "\\obj\\Debug\\netcoreapp3.1\\staticwebassets",
+    "\\wwwroot",
+    "\\wwwroot\\img",
+    "\\wwwroot\\js",
+    "\\wwwroot\\lib"
+  ],
+  "SelectedNode": "\\KonohagoWebApp.sln",
+  "PreviewInSolutionExplorer": false
+}
